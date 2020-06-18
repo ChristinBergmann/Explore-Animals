@@ -2,6 +2,16 @@ body {
   font-family: "Indie Flower", cursive;
   margin: 0;
 }
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 18px;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .images img {
+    width: 200px;
+  }
+}
 
 a {
   text-decoration: none;
@@ -39,8 +49,14 @@ nav {
 .navbar li a:hover {
   color: #2663e7;
 }
+
 .container {
   width: 90%;
+  margin: 0 auto;
+}
+
+.container-quelle {
+  padding: 10%;
   margin: 0 auto;
 }
 
@@ -80,10 +96,9 @@ footer {
   width: 100%;
   text-align: center;
   bottom: 0;
-  position: static;
 }
 
-/*--- Animals Page Rulesets ---*/
+/*-- Animals Page Rulesets --*/
 
 #showcase {
   margin-top: 5%;
@@ -102,7 +117,8 @@ footer {
   display: inline-block;
   vertical-align: middle;
   width: 32%;
-  min-width: 100px;
+  min-width: 120px;
+  min-height: 100px;
   margin: 0 auto;
   border-radius: 5px;
 }
@@ -130,7 +146,7 @@ footer {
 
 .description {
   height: 100%;
-  font-size: 13px;
+  font-size: 14px;
   overflow: auto;
 }
 
