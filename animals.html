@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Spannende Tierwelt</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script id="template" type="text/x-handlebars-template">
+        {{#each animals}}
+        <article class="animals">
+            <img class="image" src="{{this.image}}" alt="{{this.name}}">
+            <section class="details">
+                <h2 class="name">{{this.name}}</h2>
+                <p class="description">{{this.description}}</p>
+                <p class="life">Leben: {{this.lives}}</p>
+            </section>
+        </article>
+        {{/each}}
+    </script>
+</head>
+
+<body>
+    <header>
+        <section class="container">
+            <h1 class="brand">Christin`s Tierwelt!</h1>
+            <nav>
+                <ul class="navbar">
+                    <li class="active"><a href="sources.html">Quellen</a></li>
+                    <li class="active"><a href="index.html">Zurück</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+
+    <main>
+        <article id="showcase" class="container">
+            <section id="info"></section>
+        </article>
+    </main>
+
+    <footer class="brand">
+        <p>&copy; Christin || 2020</p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
