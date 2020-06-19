@@ -179,3 +179,12 @@ span {
 li {
   font-size: 1.7rem;
 }
+
+.email li {
+  list-style: none;
+  text-align: center;
+}
+
+.email a {
+  color: #dd7a09;
+}
