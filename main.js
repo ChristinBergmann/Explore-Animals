@@ -37,7 +37,12 @@ const context = {
             description: 'Diese Krabbe ist nachtaktiv, gräbt bis zu 1,50 m tiefe Höhlen. Als erwachsenes Exemplar lebt die Krabbe ausschließlich an Land, zur Vermehrung muss sie an den Ozean zurück, um ihre Larven ins Wasser zu entlassen.',
             lives: 'Costa Rica, Florida, Mexiko (Ostpazifik), Nicaragua, Panama'
         },
-
+        {
+            image: 'https://i.pinimg.com/474x/6b/af/11/6baf11ed9132a9591ba689f795aadc2c.jpg',
+            name: 'Blaue Holzbiene',
+            description: 'Die Holzbiene brummt laut, ist aber sehr friedfertig.Bei der Futtersuche wendet die Holzbiene einen speziellen Kniff an: Wenn sie trotz ihrer langen Zunge nicht an den Nektar einer besonders tiefen Blüte gelangt, nagt sie einfach ein Loch in die Blütenwand. Dabei kann es sein, dass sie nicht unbedingt mit den Pollen in Berührung kommt – sie nimmt sich also den Nektar, ohne die übliche Gegenleistung zu erbringen, nämlich die Bestäubung der Blüte.',
+            lives: 'Deutschland, teilweise bis Südschweden'
+        }
     ]
 };
 
