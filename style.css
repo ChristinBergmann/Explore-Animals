@@ -166,6 +166,12 @@ nav {
 
 /*-- Source Page Ruleset --*/
 
+.container-quelle {
+  width: 90%;
+  padding: 10%;
+  margin: 0 auto;
+}
+
 span {
   font-weight: 600;
   font-size: 1.7rem;
