@@ -4,7 +4,7 @@ const context = {
     animals: [{
             image: 'https://img.fotocommunity.com/der-dreifarbenglanzstar-68ed7c4b-796a-406a-9d1d-1ddf5f5c5a39.jpg?height=1080',
             name: 'Dreifarben-Glanzstar',
-            description: 'Er hält sich meist am Boden auf, auf dem er nach Insekten, Weichtieren, Früchten und Körnern sucht. Sein Lebensräume sind Savanne, Busch, Ackerland und Stadtränder.',
+            description: 'Er hält sich meist am Boden auf, auf dem er nach Insekten, Weichtieren, Früchten und Körnern sucht. Seine Lebensräume sind Savanne, Busch, Ackerland und Stadtränder.',
             lives: 'Äthiopien, Somalia, Uganda, Kenia und Tansania'
         },
         {
@@ -34,7 +34,7 @@ const context = {
         {
             image: 'https://www.meerwasser-lexikon.de/img2/44476_nXT86fH1C1.jpg',
             name: 'Halloweenkrabbe ',
-            description: 'Diese Krabbe ist nachtaktiv,gräbt bis zu 1,50 m tiefe Höhlen.Als adultes Exemplar lebt die Krabbe ausschließlich an Land,zur Vermehrung muss sie an den Ozean zurück um ihre Larven ins Wasser zu entlassen.',
+            description: 'Diese Krabbe ist nachtaktiv, gräbt bis zu 1,50 m tiefe Höhlen. Als erwachsenes Exemplar lebt die Krabbe ausschließlich an Land, zur Vermehrung muss sie an den Ozean zurück, um ihre Larven ins Wasser zu entlassen.',
             lives: 'Costa Rica, Florida, Mexiko (Ostpazifik), Nicaragua, Panama'
         },
 
