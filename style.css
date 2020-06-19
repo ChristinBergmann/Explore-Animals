@@ -20,6 +20,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  margin: 0 auto;
+}
+
 header {
   padding-top: 3%;
   min-height: 70px;
