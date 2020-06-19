@@ -73,10 +73,10 @@ nav {
   margin: 0 auto;
 }
 
-.container-quelle {
-  width: 90%;
+.source {
+  /* width: 90%; */
   padding: 10%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 /*-- Home Page Rulesets --*/
