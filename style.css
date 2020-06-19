@@ -177,6 +177,7 @@ li {
 }
 
 .email li {
+  text-decoration: none;
   list-style: none;
   text-align: center;
 }
