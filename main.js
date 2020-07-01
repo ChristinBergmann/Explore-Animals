@@ -42,6 +42,12 @@ const context = {
             name: 'Blaue Holzbiene',
             description: 'Die Holzbiene brummt laut, ist aber sehr friedfertig.Bei der Futtersuche wendet die Holzbiene einen speziellen Kniff an: Wenn sie trotz ihrer langen Zunge nicht an den Nektar einer besonders tiefen Blüte gelangt, nagt sie einfach ein Loch in die Blütenwand. Dabei kann es sein, dass sie nicht unbedingt mit den Pollen in Berührung kommt – sie nimmt sich also den Nektar, ohne die übliche Gegenleistung zu erbringen, nämlich die Bestäubung der Blüte.',
             lives: 'Deutschland, teilweise bis Südschweden'
+        },
+        {
+            image: 'https://www.performance-vision.com/Saddleback/01-IMG_3686JPG-export-800w.jpg',
+            name: 'Saddleback Caterpillar',
+            description: '',
+            lives: 'Nordamerika, Mexico'
         }
     ]
 };
