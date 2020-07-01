@@ -46,7 +46,7 @@ const context = {
         {
             image: 'https://www.performance-vision.com/Saddleback/01-IMG_3686JPG-export-800w.jpg',
             name: 'Saddleback Caterpillar',
-            description: 'Nur kucken- nicht anfassen! Denn wenn Du mit den Haaren in Kontakt kommst, verursachen sie einen sehr schmerzhaften Ausschlag, Brennen, Juckreiz, Schwellung und Blasenbildung sowie Übelkeit. Das Gift kann sich ausbreiten, wenn die Haare nicht schnell von der Haut entfernt werden. Der Kokon einer Sattelraupe kann auch irritierende Haare haben, und Du solltest sich immer bewusst sein, dass selbst ein Haar der Larve einen schmerzhaften Ausschlag verursachen kann.',
+            description: 'Nur kucken- nicht anfassen! Denn wenn Du mit den Haaren in Kontakt kommst, verursachen sie einen sehr schmerzhaften Ausschlag, Brennen, Juckreiz, Schwellung und Blasenbildung sowie Übelkeit. Das Gift kann sich ausbreiten, wenn die Haare nicht schnell von der Haut entfernt werden. Der Kokon einer Sattelraupe kann auch irritierende Haare haben, und Du solltest Dir immer bewusst sein, dass selbst ein Haar der Larve einen schmerzhaften Ausschlag verursachen kann.',
             lives: 'Nordamerika, Mexico'
         }
     ]
